@@ -1,6 +1,6 @@
 # Poem-Generator
 Code for traning a Tensor Flow LSTM (Long Short-Term Memory) model 
-This alow ou genrate poem with different styles depending the tye of dataset you train it on. A samole dataset in inc. in the reop - poem.txt 
+This allow you to genrate poem with different styles depending the tye of dataset you train it on. A sample dataset in inc. in the reop - poem.txt 
 
 # Project Info
 Model Architecture:
